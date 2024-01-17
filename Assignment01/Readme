@@ -1,6 +1,6 @@
 Assignment01_raw01_list.gh
 
-Feed a List of Integers to connect points that are represent on the Grid below. Surface of cylinder changes accordingly.
+Feed a List of Integers (Input Pts) to connect points that are represent on the Grid below. Surface of cylinder changes accordingly.
 
 10--11--12--13--14
 |   |   |   |   |
